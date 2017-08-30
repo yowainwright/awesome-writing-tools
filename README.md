@@ -3,5 +3,4 @@
 A curated list of awesome resources for improving written communication.
 
 ----
-
-> Listed below are tools that can be incorporated into online writing to improve language, grammar and sentiment.
+- [Alex.js](http://alexjs.com/) - Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favouring, polarising, race related, religion inconsiderate, or other unequal phrasing.
