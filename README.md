@@ -1,6 +1,6 @@
-<h1 align="center">Awesome Writing Tools 💕</h1>
+# Awesome Writing Tools 💕 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### A curated list of awesome resources for improving written communication.
+> A curated list of awesome resources for improving written communication.
 
 - [Alex.js](http://alexjs.com/) - Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favouring, polarising, race related, religion inconsiderate, or other unequal phrasing.
 
