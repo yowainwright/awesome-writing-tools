@@ -6,6 +6,8 @@
 
 - [Atomic AI / Atomic Reach](https://www.atomicreach.com/) - Real time, custom and predictive recommendations to create perfectly written content with your audience in mind every time.
 
+- [The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html) - The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
+
 - [Cliche Finder](http://cliche.theinfo.org/) - Finds and highlights cliches in your writing.
 
 - [Grammarly](https://www.grammarly.com/) - Grammarly makes sure everything you type is clear, effective, and mistake-free, and even checks for plagarism.
