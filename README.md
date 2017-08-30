@@ -6,6 +6,8 @@
 
 - [Atomic AI / Atomic Reach](https://www.atomicreach.com/) - Real time, custom and predictive recommendations to create perfectly written content with your audience in mind every time.
 
+- [Cliche Finder](http://cliche.theinfo.org/) - Finds and highlights cliches in your writing.
+
 - [Grammarly](https://www.grammarly.com/) - Grammarly makes sure everything you type is clear, effective, and mistake-free, and even checks for plagarism.
 
 - [The Hemingway Editor](http://www.hemingwayapp.com/) - Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
