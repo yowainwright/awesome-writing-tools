@@ -13,9 +13,10 @@
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
 -  **[Prompts](http://getprompts.com/):** Prompts makes suggestions for what you should write next.
 -  **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
+-  **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
 
 ---
 
-<p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly.
+<p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly. An insights or suggestions are very much appreciated.</p>
 
 <p align="center">💕</p>
