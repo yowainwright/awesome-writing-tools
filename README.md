@@ -17,6 +17,6 @@
 
 ---
 
-<p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly. An insights or suggestions are very much appreciated.</p>
+<p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly. Any insights or suggestions are very much appreciated.</p>
 
 <p align="center">💕</p>
