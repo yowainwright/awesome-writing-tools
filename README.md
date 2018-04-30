@@ -8,6 +8,7 @@
 -  **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 -  **[Cliche Finder](http://cliche.theinfo.org/):** Finds and highlights cliches in your writing.
 -  **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
+-  **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 -  **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 -  **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
 -  **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
