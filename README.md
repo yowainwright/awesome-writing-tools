@@ -6,6 +6,7 @@
 - **[Alex.js](http://alexjs.com/):** Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or another unequal phrasing.
 - **[Atomic AI / Atomic Reach](https://www.atomicreach.com/):** Real time, custom and predictive recommendations to create well written content with your audience in mind every time.
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
+- **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
 - **[Cliche Finder](http://cliche.theinfo.org/):** Finds and highlights cliches in your writing.
 - **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
