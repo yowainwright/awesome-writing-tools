@@ -12,6 +12,7 @@
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 - **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
+- **[iA writer](https://ia.net/writer/):** Writing app for Mac, PC, iOS and Android that helps with your style, including detection of redundancies, clich&#233;s and filler words. It also has a focus mode.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
