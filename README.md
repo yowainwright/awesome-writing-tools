@@ -22,7 +22,7 @@
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
 - **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
-
+- **[LogicBalls](https://logicballs.com/):** LogicBalls is an AI writing tool that allows you to generate content for sales, marketing, SEO, real estate, social media, and more in just seconds
 ---
 
 <p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly. Any insights or suggestions are very much appreciated.</p>
