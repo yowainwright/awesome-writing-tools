@@ -20,6 +20,7 @@
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
 - **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
+- **[ProseScore](https://prosescore.ckmtools.dev/):** Free browser-based readability analyzer. 8 formulas, sentiment analysis, keyword extraction, SEO scoring. Privacy-first, runs entirely client-side.
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
