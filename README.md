@@ -13,6 +13,7 @@
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 - **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
+- **[JustBlogged](https://justblogged.com/):** A no-setup blogging platform — sign up, pick a name, and start writing in under 2 minutes. Free forever with a $9/mo Pro plan for custom domains, beautiful themes, built-in SEO, and lightning-fast performance.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[Kindling](https://kindlingwriter.com):** A free, open-source novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri.
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
