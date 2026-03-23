@@ -19,6 +19,7 @@
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
+- **[misread.io](https://misread.io/):** Paste any text message or email and see what's really being communicated. AI-powered structural analysis detects passive-aggression, gaslighting, and 38 other communication patterns in workplace and personal messages. Free, no sign-up required.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
 - **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
