@@ -5,6 +5,7 @@
 
 - **[Alex.js](http://alexjs.com/):** Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or another unequal phrasing.
 - **[Atomic AI / Atomic Reach](https://www.atomicreach.com/):** Real time, custom and predictive recommendations to create well written content with your audience in mind every time.
+- **[TaleForge](https://www.tale-forge.com/):** A free creative writing platform with specialized editors for books, manga/webtoons, and screenplays. Features a marketplace for publishing, offline support, and 10 language translations.
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
 - **[CiteMe](https://citeme.app/):** AI-powered academic citation generator that searches 8+ databases and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). Includes browser extensions and Word/Google Docs integrations.
