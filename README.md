@@ -23,6 +23,7 @@
 - **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
+- **[toprank](https://github.com/nowork-studio/toprank):** Open-source Claude Code plugin that includes an E-E-A-T focused content writer for SEO, keyword research with intent classification, and meta tag optimization. Pulls real Google Search Console data to drive recommendations, and pushes content changes directly to WordPress, Strapi, Contentful, or Ghost.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
 - **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
 
