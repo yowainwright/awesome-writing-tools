@@ -21,6 +21,7 @@
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
 - **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
+- **[ProseScore](https://prosescore.ckmtools.dev/):** Free browser-based readability analyzer. 8 formulas, sentiment analysis, keyword extraction, SEO scoring. Privacy-first, runs entirely client-side.
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
 - **[toprank](https://github.com/nowork-studio/toprank):** Open-source Claude Code plugin that includes an E-E-A-T focused content writer for SEO, keyword research with intent classification, and meta tag optimization. Pulls real Google Search Console data to drive recommendations, and pushes content changes directly to WordPress, Strapi, Contentful, or Ghost.
