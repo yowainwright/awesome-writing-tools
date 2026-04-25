@@ -24,6 +24,7 @@
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
 - **[toprank](https://github.com/nowork-studio/toprank):** Open-source Claude Code plugin that includes an E-E-A-T focused content writer for SEO, keyword research with intent classification, and meta tag optimization. Pulls real Google Search Console data to drive recommendations, and pushes content changes directly to WordPress, Strapi, Contentful, or Ghost.
+- **[unslop](https://github.com/MohamedAbdallah-14/unslop):** Removes named AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. Lint-only audit mode and five intensity levels. Available as a CLI and MCP server.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
 - **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
 
