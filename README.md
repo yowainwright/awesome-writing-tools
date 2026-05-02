@@ -17,6 +17,7 @@
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[Kindling](https://kindlingwriter.com):** A free, open-source novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri.
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
+- **[lucid-lint](https://github.com/bastien-gallay/lucid-lint):** A bilingual (EN/FR) prose linter for plain-language and cognitive accessibility. Deterministic Rust CLI with 17 rules that flag long sentences, complex words, weak structure, and other readability blockers. Findings map to WCAG, RGAA, FALC, and plainlanguage.gov.
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
