@@ -20,6 +20,7 @@
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
+- **[patina](https://github.com/devswha/patina):** Audits and rewrites AI-sounding writing patterns while preserving claims, numbers, polarity, and causation.
 - **[ProWritingAid](https://prowritingaid.com/):** ProWritingAid suggests edits for repetitiveness, vague wording, sentence length variation, over-dependence on adverbs, passive voice, over-complicated sentence constructions, spelling, and grammar.
 - **[Readable.io](https://readable.io/):** Readable.io analyzes the readability of text and suggests ways to improve it.
 - **[Taskade](https://taskade.com/):** Taskade is a real-time collaborative editor for creating bullet lists, outlines, and task lists.
