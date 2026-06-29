@@ -4,6 +4,7 @@
 ---
 
 - **[Alex.js](http://alexjs.com/):** Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or another unequal phrasing.
+- **[AMA Citation Generator](https://ama-citation-generator-vercel.vercel.app/):** Free web tool for formatting AMA 11th edition references for medical and academic writing, including journal articles, DOI, PubMed PMID, websites, books, and reports.
 - **[Atomic AI / Atomic Reach](https://www.atomicreach.com/):** Real time, custom and predictive recommendations to create well written content with your audience in mind every time.
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
