@@ -3,6 +3,7 @@
 
 ---
 
+- **[1667](https://github.com/1667-ai/1667):** A full-screen terminal environment for writing fiction with language models. Each story part can hold alternative takes in a tree, and you select one story line to read or export. Works with local model servers (Ollama, llama.cpp, KoboldCpp, LM Studio) and with OpenAI-compatible or Anthropic endpoints. Stories stay in a local project folder. Apache 2.0, for macOS, Linux, and Windows.
 - **[Alex.js](http://alexjs.com/):** Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or another unequal phrasing.
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
