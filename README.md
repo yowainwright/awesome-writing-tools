@@ -27,3 +27,4 @@
 <p align="center">This list was started by <a href="https://github.com/jacefarm">Jason Farmer</a> along with <a href="https://github.com/yowainwright">Jeff Wainwright</a> to share tools that might make writing a bit more friendly. Any insights or suggestions are very much appreciated.</p>
 
 <p align="center">💕</p>
+- **[TopicSplit](https://github.com/andrwspt/topicsplit):** Free offline semantic text grouper — split pasted text into topic segments by meaning. Perfect for breaking down articles, transcripts, or notes into clean markdown. 100% client-side, no tracking, no account.
