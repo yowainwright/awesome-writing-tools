@@ -21,6 +21,7 @@
 - **[toprank](https://github.com/nowork-studio/toprank):** Open-source Claude Code plugin that includes an E-E-A-T focused content writer for SEO, keyword research with intent classification, and meta tag optimization. Pulls real Google Search Console data to drive recommendations, and pushes content changes directly to WordPress, Strapi, Contentful, or Ghost.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
 - **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
+- **[TopicSplit](https://github.com/andrwspt/topicsplit):** Free offline semantic text grouper — split pasted text into topic segments by meaning, not word count. Perfect for structuring long-form content, articles, and transcripts. 100% browser-based, MIT licensed.
 
 ---
 
