@@ -3,6 +3,7 @@
 
 ---
 
+- **[AI Novel Writer](https://www.orz.md/ai-novel-writer/):** Open-source Windows and macOS workspace for long-form fiction that keeps premise, characters, worldbuilding, outlines, chapter planning, drafting, review, and revision in one author-controlled workflow; supports optional local Ollama models.
 - **[Alex.js](http://alexjs.com/):** Catch insensitive, inconsiderate writing. Whether your own or someone else’s writing, Alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or another unequal phrasing.
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
