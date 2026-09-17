@@ -18,6 +18,7 @@
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
 - **[Perspective API](https://www.perspectiveapi.com/#/):** An API that uses machine learning models to score the perceived impact of comments before they are sent. There is a demo nearer to the bottom of the page which can be used to try out the API.
+- **[QuickTiny Word Counter](https://quicktinyv2.vercel.app/word-counter):** Counts words, characters, and reading time in your browser. No signup, nothing uploaded.
 - **[toprank](https://github.com/nowork-studio/toprank):** Open-source Claude Code plugin that includes an E-E-A-T focused content writer for SEO, keyword research with intent classification, and meta tag optimization. Pulls real Google Search Console data to drive recommendations, and pushes content changes directly to WordPress, Strapi, Contentful, or Ghost.
 - **[Weallbehave](https://github.com/wealljs/weallbehave):** Weallbehave is a command-line tool for automatically generating and updating the `CODE_OF_CONDUCT.md` for your projects.
 - **[Write Good](https://github.com/btford/write-good):**  Write Good is a tool for improving language that can be run again code in a shell or within text editors via test editor plugins.
