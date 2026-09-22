@@ -11,6 +11,7 @@
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 - **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
+- **[Hemmingway](https://hemmingway.io):** An AI writing app (Mac, Windows, Android and web) for everyday messages and emails, built on Hemmingway-1, a 27B open-weights model released under Apache-2.0 ([weights](https://huggingface.co/Altworld/Hemmingway-1)).
 - **[Inkwell](https://github.com/4worlds4w-svg/inkwell):** A lightweight Markdown editor built with Rust and Tauri. Split view, live preview, 4 themes, focus mode, typewriter mode, and version history. No cloud, no accounts, no telemetry.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[Kindling](https://kindlingwriter.com):** A free, open-source novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri.
