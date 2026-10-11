@@ -7,6 +7,7 @@
 - **[The Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html):** The Chicago Manual of Style Online is the venerable, time-tested guide to style, usage, and grammar in an accessible online format.
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
 - **[Cliche Finder](http://cliche.theinfo.org/):** Finds and highlights cliches in your writing.
+- **[Concise](https://apps.apple.com/us/app/concise-hemingway-editor/id6783388958) (also on [Google Play](https://play.google.com/store/apps/details?id=com.appfactory.concise)):** A private, on-device writing clarity editor that flags hard-to-read sentences, passive voice, adverbs, complex words, and wordy phrases.
 - **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
