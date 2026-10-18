@@ -10,6 +10,7 @@
 - **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
+- **[Hathor Metatron](https://pentecaust.com/metatron):** A browser writing desk for long-form fiction: word count, story points and sprint timer, a scene board, and an honest Human / AI-assisted / AI-generated tag on every draft. Drafts stay in your browser.
 - **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
 - **[Inkwell](https://github.com/4worlds4w-svg/inkwell):** A lightweight Markdown editor built with Rust and Tauri. Split view, live preview, 4 themes, focus mode, typewriter mode, and version history. No cloud, no accounts, no telemetry.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
