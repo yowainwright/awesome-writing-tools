@@ -14,6 +14,7 @@
 - **[Inkwell](https://github.com/4worlds4w-svg/inkwell):** A lightweight Markdown editor built with Rust and Tauri. Split view, live preview, 4 themes, focus mode, typewriter mode, and version history. No cloud, no accounts, no telemetry.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[Kindling](https://kindlingwriter.com):** A free, open-source novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri.
+- **[Koru](https://github.com/koruworks/mono):** A free, open-source, local-first desktop workspace for notes and documents, built natively in Rust for Windows and macOS. No account, works offline, imports from Evernote, Notion and OneNote, and syncs devices peer-to-peer.
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
 - **[Markdownlint](https://github.com/markdownlint/markdownlint):** A tool to check markdown files and flag style issues.
   - **[Markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli):** Provides a command line interface for MarkdownLint.
