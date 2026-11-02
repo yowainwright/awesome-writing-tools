@@ -8,6 +8,7 @@
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
 - **[Cliche Finder](http://cliche.theinfo.org/):** Finds and highlights cliches in your writing.
 - **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
+- **[CoverNice](https://covernice.com/):** Cover studio for Amazon KDP — five directions, spine width from page count, then a 300 dpi print-ready wrap PDF.
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 - **[The Hemingway Editor](http://www.hemingwayapp.com/):** Hemingway helps you write with power and clarity by highlighting adverbs, passive voice, and dull, complicated words. Cut the dead weight from your writing.
