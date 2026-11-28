@@ -8,6 +8,7 @@
 - **[Chisel Editor](https://egonschiele.github.io/chisel-docs/):**  An AI-powered tool for writing books and stories.
 - **[Contributor Covenant](https://www.contributor-covenant.org/):** A code of conduct pledge, to respect and appreciate contributors and participants in open source projects.
 - **[Danger](https://github.com/danger/danger):** Formalizes pull request ettiquette.
+- **[Ficaryn Prose Checker](https://ficaryn.com/tools/prose-checker/):** A free, client-side browser linter that flags cliché phrasing, hedging, and monotonous paragraph rhythm in English and Chinese drafts without sign-up or server uploads.
 - **[Grammarly](https://www.grammarly.com/):** Grammarly makes sure everything you type is clear and mistake-free. It even checks for plagiarism.
 - **[JigSaw](https://jigsaw.google.com/projects/):** A technology incubator focused on countering extremism and removing censorship online.
 - **[LanguageCheck](https://github.com/JohannesBuchner/languagecheck):** Analyses scientific papers written in LaTeX, offline or on overleaf. Analysis reports with suggestions for improvements include a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check and paragraph topic sentences.
